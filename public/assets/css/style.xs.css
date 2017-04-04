@@ -1,0 +1,35 @@
+@media (max-width: 767px)
+{
+    .class-slide-menu
+    {
+        margin-top: 16px;
+    }
+
+    .class-brand-image
+    {
+        margin-top: 2px;
+        width: 60px;
+    }
+
+    .drawer--left .drawer-nav
+    {
+        left: -65%;
+    }
+
+    .drawer-nav
+    {
+        width: 65%;
+    }
+
+    .class-footer
+    {
+        background-color: #EEE;
+        min-height: 250px;
+    }
+
+    .class-panel-link
+    {
+        margin: 6px 0px;
+    }
+
+}

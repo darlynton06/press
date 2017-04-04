@@ -1,0 +1,99 @@
+@media (min-width: 992px) and (max-width: 1199px)
+{
+    .container
+    {
+        width: 85%;
+        margin: 0px auto;
+    }
+
+    .class-brand-image
+    {
+        margin-top: 3px;
+        width: 60px;
+    }
+
+    .class-site-menu
+    {
+        color: #FFF !important;
+        margin-top: 30px;
+    }
+
+    .class-site-menu span
+    {
+        color: #FFF;
+        padding: 12px;
+    }
+
+    .class-site-menu span.active
+    {
+        border-bottom: 4px solid #E6E6FA;
+        color: #E6E6FA;
+        font-weight: bold;
+    }
+
+    .class-site-menu span a, .class-site-menu span a:hover
+    {
+        font-size: 18px;
+        line-height: 20px;
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .class-banner
+    {
+        background-image: url("../images/banner.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        min-height: 400px;
+        max-height: 400px;
+        position: relative;
+    }
+
+    .class-banner-write-up
+    {
+        min-height: 100px;
+        max-height: 100px;
+        width: 80%;
+        padding: 0px 60px;
+        position: absolute;
+        top: 220px;
+        left: 0px;
+        color: #FFF;
+        box-shadow: inset 0 1px 0 #333,0 1px 5px #333;
+        background-image: url("../images/banner_write_up.png");
+        border-radius: 0px 8px 8px 0px;
+    }
+
+    .class-banner-write-up h1
+    {
+        text-transform: capitalize;
+        margin-top: 10px;
+        font-size: 30px;
+    }
+
+    .class-banner-write-up h3
+    {
+        margin-top: 10px;
+        font-size: 17px;
+    }
+
+    .class-banner-write-up h3 a, .class-banner-write-up h3 span
+    {
+        padding: 4px;
+        color: #FFF;
+        text-decoration: none;
+        margin: 0px 10px;
+    }
+    
+    .class-footer
+    {
+        background-color: #EEE;
+        min-height: 250px;
+    }
+
+    .class-panel-link
+    {
+        margin: 0px 40px;
+    }
+
+}
